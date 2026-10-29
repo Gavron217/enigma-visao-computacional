@@ -22,7 +22,7 @@ Logo, a Figura 3 resulta em: 18 + (7 - 3) = **22**.
 ## 🚀 Como executar
 1. Clone este repositório.
 2. Instale as dependências: `pip install -r requirements.txt`
-3. Execute o script: `python solucao_enigma.py`
+3. Abra o arquivo Solucao_enigma.ipynb no Jupyter Notebook ou Google Colab para executar o código.
 
 ## 📸 Resultado
 O terminal exibe a contagem exata e o resultado da lógica: **22**.
