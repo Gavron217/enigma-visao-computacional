@@ -26,3 +26,4 @@ Logo, a Figura 3 resulta em: 18 + (7 - 3) = **22**.
 
 ## 📸 Resultado
 O terminal exibe a contagem exata e o resultado da lógica: **22**.
+![Resultado do Terminal](./Captura%20de%20Tela%202026-10-29%20às%2016.04.48.png)
